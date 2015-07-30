@@ -5,6 +5,6 @@
 	<link rel="stylesheet" href="style.css">
   </head>
   <body>
-  	<div class="header">  Не просто шапка</div>
+  	<div class="header">  New</div>
   </body>
 </html>
